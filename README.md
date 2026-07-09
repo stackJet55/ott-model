@@ -50,7 +50,7 @@ The project demonstrates the use of structured programming, file-independent dat
 ## Project Structure
 
 ```
-bt25cse074.c
+main.c
 ```
 
 ## Compilation
@@ -58,7 +58,7 @@ bt25cse074.c
 Using GCC:
 
 ```bash
-gcc bt25cse074.c -o ott
+gcc main.c -o ott
 ```
 
 Run:
@@ -70,7 +70,7 @@ Run:
 On Windows:
 
 ```bash
-gcc bt25cse074.c -o ott.exe
+gcc main.c -o ott.exe
 ott.exe
 ```
 
